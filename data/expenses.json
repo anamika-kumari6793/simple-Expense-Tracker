@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "amount": 25.5,
+    "description": "Lunch with friends",
+    "category": "Food",
+    "date": "2025-11-21 21:40:32"
+  },
+  {
+    "id": 2,
+    "amount": 25.5,
+    "description": "Lunch",
+    "category": "Food",
+    "date": "2025-11-22 14:29:19"
+  },
+  {
+    "id": 3,
+    "amount": 25.5,
+    "description": "Test lunch",
+    "category": "Food",
+    "date": "2025-11-22 14:58:26"
+  }
+]
