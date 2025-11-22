@@ -19,5 +19,33 @@
     "description": "Test lunch",
     "category": "Food",
     "date": "2025-11-22 14:58:26"
+  },
+  {
+    "id": 4,
+    "amount": 25.5,
+    "description": "lunch",
+    "category": "Food",
+    "date": "2025-11-22 21:46:18"
+  },
+  {
+    "id": 5,
+    "amount": 25.5,
+    "description": "",
+    "category": "Food",
+    "date": "2025-11-22 22:16:21"
+  },
+  {
+    "id": 6,
+    "amount": 25.5,
+    "description": "lunch",
+    "category": "Food",
+    "date": "2025-11-22 22:16:29"
+  },
+  {
+    "id": 7,
+    "amount": 25.5,
+    "description": "lunch",
+    "category": "Food",
+    "date": "2025-11-22 22:16:32"
   }
 ]

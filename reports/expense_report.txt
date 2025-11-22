@@ -1,0 +1,11 @@
+=== EXPENSE TRACKER REPORT ===
+
+Total Spending: $102.00
+
+Category Breakdown:
+  Food: $102.00 (100.0%)
+
+Recent Expenses:
+  2025-11-22 21:46:18: $25.50 - lunch (Food)
+  2025-11-22 14:58:26: $25.50 - Test lunch (Food)
+  2025-11-22 14:29:19: $25.50 - Lunch (Food)
